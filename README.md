@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-taivippro123.vercel.app-0A0A0A?logo=vercel&logoColor=white)](https://taivippro123.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=vercel&logoColor=white)](https://taivippro123.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taivippro123)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@taivippro123)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanvothanhtai1007@gmail.com)
